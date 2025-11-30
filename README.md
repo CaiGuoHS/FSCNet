@@ -8,7 +8,7 @@ Pytorch Implementation for the paper "Fully-Cascaded Spatial-Aware Convolutional
 ## Dependencies
 python
 ```
-conda create -n sfnet python=3.8
+conda create -n fscnet python=3.8
 conda activate fscnet
 ```
 pytorch
