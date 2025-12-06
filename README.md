@@ -31,3 +31,19 @@ Please download pretrained model (https://drive.google.com/file/d/1KKv-6ccdsMN32
 ```
 python test.py
 ```
+
+## Citation
+If you think this work is useful for your research, please cite the following paper.
+
+```
+@article{hong2025fully,
+  title={Fully-Cascaded Spatial-Aware Convolutional Network for Motion Deblurring},
+  author={Hong, Yinghan and Tao, Bishenghui and Wang, Qian and Mai, Guizhen and Guo, Cai},
+  journal={Information},
+  volume={16},
+  number={12},
+  pages={1055},
+  year={2025},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+```
